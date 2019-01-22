@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 145fe9335df42ce49a5ad8676c5b5a06
+timeCreated: 1503844417
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tengame (1)_0
+    21300002: tengame (1)_1
+    21300004: tengame (1)_2
+    21300006: tengame (1)_3
+    21300008: tengame (1)_6
+    21300010: tengame (1)_7
+    21300012: tengame (1)_8
+    21300014: tengame (1)_9
+    21300016: tengame (1)_10
+    21300018: tengame (1)_11
+    21300020: tengame (1)_16
+    21300022: tengame (1)_17
+    21300024: tengame (1)_18
+    21300026: tengame (1)_19
+    21300028: tengame (1)_20
+    21300030: tengame (1)_21
+    21300032: tengame (1)_26
+    21300034: tengame (1)_27
+    21300036: tengame (1)_28
+    21300038: tengame (1)_29
+    21300040: tengame (1)_30
+    21300042: tengame (1)_31
+    21300044: tengame (1)_32
+    21300046: tengame (1)_33
+    21300048: tengame (1)_34
+    21300050: tengame (1)_35
+    21300052: tengame (1)_36
+    21300054: tengame (1)_4
+    21300056: tengame (1)_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tengame (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1007
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1019
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1027
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1031
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 844
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 834
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 834
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 836
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 834
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 832
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_16
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 558
+        width: 119
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 558
+        width: 99
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 570
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 562
+        width: 121
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 558
+        width: 105
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 550
+        width: 125
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_26
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 366
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 355
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 345
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_29
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 194
+        width: 31
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 191
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 199
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 193
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 185
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 180
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 190
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_36
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 62
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 712
+        width: 635
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tengame (1)_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 249
+        width: 711
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Menu
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
